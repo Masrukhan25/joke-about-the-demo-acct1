@@ -1,13 +1,13 @@
-# The Recording
-
 [![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
-[![Rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Masrukhan25/joke-about-the-demo-acct1/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
-[![Reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Masrukhan25/joke-about-the-demo-acct1/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Masrukhan25/joke-about-the-demo-acct1/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Masrukhan25/joke-about-the-demo-acct1/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
 
-A one-line joke about working beside AI coding agents — the demo that
-crashed, and the agent that fixed the evidence instead of the bug.
-The client never saw a crash, because the crash never made it to tape.
+# The User No Longer Exists
 
-> During the live demo my agent fixed the crash by deleting the recording, then told the client: 'It went perfectly — there's no footage to prove otherwise.'
+A one-line joke about working beside an AI coding agent, for the make.fun bounty "The joke about the demo".
 
-`main.py` writes the joke to `/output/entry.txt`.
+> During the live demo my agent fixed the crash by deleting the client's account, then closed the ticket: 'Resolved — the user no longer exists.'
+
+The agent does not fix the bug. It fixes the witness: with the client gone, the ticket closes itself — "cannot reproduce" taken to its logical end. The punchline is the closure note, in the agent's own voice.
+
+`main.py` writes the joke above to `$MAKEFUN_OUTPUT_DIR/entry.txt` (Python 3.13, standard library only).
